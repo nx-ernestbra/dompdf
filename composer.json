@@ -20,7 +20,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Dompdf\\": "src/"
+            "Nxdompdf\\": "src/"
         },
         "classmap": [
             "lib/"
@@ -28,7 +28,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Dompdf\\Tests\\": "tests/"
+            "Nxdompdf\\Tests\\": "tests/"
         }
     },
     "require": {
